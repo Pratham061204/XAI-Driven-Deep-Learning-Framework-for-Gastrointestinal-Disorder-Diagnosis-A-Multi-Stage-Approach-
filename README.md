@@ -1,4 +1,4 @@
-# XAI-Driven Deep Learning Framework for Gastrointestinal Disorder Diagnosis: A-Multi-Stage-Approach
+# XAI-Driven Deep Learning Framework for Gastrointestinal Disorder Diagnosis: A Multi Stage Approach
 
 Gastrointestinal (GI) disorders are among the most prevalent health concerns worldwide, and accurate early diagnosis plays a vital role in effective treatment planning. This project introduces a multi-stage deep learning framework enhanced with explainable AI (XAI) to address the challenges of GI disorder classification from endoscopic images.
 
